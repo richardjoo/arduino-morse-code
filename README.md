@@ -16,7 +16,7 @@ Code is simple too.  I will have few different styles.
 * Enhanced
     * I moved morse code related section to morsecode.h header file.
 * Advanced
-	* added a new function stringToMorseCode(char arg[]) to read the string of letters and numbers and convert into morse code
+	* added a new function ````void stringToMorseCode(char arg[])```` to read the string of letters and numbers and convert into morse code
     * it accepts the string and convert.
 * Expert (nah... not really) AND I didn't do this one yet either  haha~
     * just made it fancier :D
