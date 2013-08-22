@@ -15,8 +15,8 @@ Code is simple too.  I will have few different styles.
     * I did this way so people who have no idea on C language can understand.
 * Enhanced
     * I moved morse code related section to morsecode.h header file.
-* Advanced (I didn't do this one yet)  sorry~  :-D
-	* added a new function convert(arg *char) to read the string of letters and numbers and convert into morse code
+* Advanced
+	* added a new function stringToMorseCode(char arg[]) to read the string of letters and numbers and convert into morse code
     * it accepts the string and convert.
 * Expert (nah... not really) AND I didn't do this one yet either  haha~
     * just made it fancier :D
