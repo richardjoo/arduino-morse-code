@@ -22,13 +22,14 @@ Code is simple too.  I will have few different styles.
 
 ## INSTRUCTION
 1. Buy arduino starter kit
-    * I bought this one. [starter kit](http://www.sainsmart.com/starter-kit/uno-r3-starter-kit/sainsmart-uno-r3-starter-kit-with-16-basic-arduino-projects.html)
+    * I bought this one. [starter kit][9]
 2. Install Arduino IDE
-    * [Download and install from this site](http://arduino.cc/en/main/software)
+    * [Download and install from this site][10]
     * And install the software.
     * When you run the software, it should look something like this [arduino-morse-code-001.jpg][1]
+        * <img src="/pictures/arduino-morse-code-001.jpg" alt="001" style="width: 50px;"/>
 3. Download tutorial file
-    * [Click this link to download the file](http://www.sainsmart.com/zen/documents/20-013-100-104/SainSmart_Stater_Kit_Tutorals_100-104.rar)
+    * [Click this link to download the file][11]
 4. Make sure your computer can talk to arduino
     * connect your arduino to your computer without any other things attached
     * try to follow chapter 1 and 2
@@ -47,8 +48,10 @@ Code is simple too.  I will have few different styles.
         * [pic 5][8]
             * <img src="/pictures/arduino-morse-code-008.jpg" alt="pic 5" style="width: 100px;"/>
     * If it is the same tutorial file, then the file name should be Arduino Stater Kit Tutorals 100-104 and diagram can be found on page 11. And here is the screen shot of it. [arduino-morse-code-002.jpg][2]
+        * <img src="/pictures/arduino-morse-code-002.jpg" alt="002" style="width: 50px;"/>
 6. Open morsecode.ino from one of these three folders (basic, enhanced, and advanced)
     * it should be looking like this [arduino-morse-code-003.jpg][3]
+        * <img src="/pictures/arduino-morse-code-003.jpg" alt="003" style="width: 50px;"/>
 7. Verify to make sure code compiles without any errors.
 8. Upload
 9. Enjoy!
@@ -62,3 +65,7 @@ Code is simple too.  I will have few different styles.
 [6]: https://github.com/richardjoo/arduino-morse-code/blob/master/pictures/arduino-morse-code-006.jpg
 [7]: https://github.com/richardjoo/arduino-morse-code/blob/master/pictures/arduino-morse-code-007.jpg
 [8]: https://github.com/richardjoo/arduino-morse-code/blob/master/pictures/arduino-morse-code-008.jpg
+[9]: http://www.sainsmart.com/starter-kit/uno-r3-starter-kit/sainsmart-uno-r3-starter-kit-with-16-basic-arduino-projects.html
+[10]: http://arduino.cc/en/main/software
+[11]: http://www.sainsmart.com/zen/documents/20-013-100-104/SainSmart_Stater_Kit_Tutorals_100-104.rar
+
