@@ -37,6 +37,7 @@ Code is simple too.  I will have few different styles.
 5. Assemble LED blinking kit
     * The diagram and items weren't exactly identical to what I got. So, I took some pictures of mine.
         * [pic 1][4]
+            * <img src="/pictures/arduino-morse-code-004.jpg" alt="pic 1" style="width: 200px;"/>
         * [pic 2][5]
         * [pic 3][6]
         * [pic 4][7]
