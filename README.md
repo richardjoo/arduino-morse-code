@@ -36,6 +36,9 @@ Code is simple too.  I will have few different styles.
         * I had good luck with tty.usbmodemfa131 with Mac
 5. Assemble LED blinking kit
     * The diagram and items weren't exactly identical to what I got. So, I took some pictures of mine.
+        * [pic 1][4]
+        * [pic 2][5]
+        * [pic 3][6]
     * If it is the same tutorial file, then the file name should be Arduino Stater Kit Tutorals 100-104 and diagram can be found on page 11. And here is the screen shot of it. [arduino-morse-code-002.jpg][2]
 6. Open morsecode.ino from one of these three folders (basic, enhanced, and advanced)
     * it should be looking like this [arduino-morse-code-003.jpg][3]
