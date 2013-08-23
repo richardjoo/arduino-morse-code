@@ -18,9 +18,27 @@ Code is simple too.  I will have few different styles.
 * Advanced
 	* added a new function ````void stringToMorseCode(char arg[])```` to read the string of letters and numbers and convert into morse code
     * it accepts the string and convert.
-* Expert (nah... not really) AND I didn't do this one yet either  haha~
-    * just made it fancier :D
-    * please forgive me, but think of it as trenta in terms of starbucks coffee ;-)
 
 
 ## INSTRUCTION
+1. Buy arduino starter kit
+    * I bought this one. [starter kit](http://www.sainsmart.com/starter-kit/uno-r3-starter-kit/sainsmart-uno-r3-starter-kit-with-16-basic-arduino-projects.html)
+2. Install Arduino IDE
+    * [Download and install from this site](http://arduino.cc/en/main/software)
+    * And install the software.
+    * When you run the software, it should look something like this (arduino-morse-code-001.jpg)
+3. Download tutorial file
+    * [Click this link to download the file](http://www.sainsmart.com/zen/documents/20-013-100-104/SainSmart_Stater_Kit_Tutorals_100-104.rar)
+4. Make sure your computer can talk to arduino
+    * connect your arduino to your computer without any other things attached
+    * try to follow chapter 1 and 2
+    * When you try to upload the example code for the first time, it will ask you which serial port you want to use.
+        * I had good luck with tty.usbmodemfa131 with Mac
+5. Assemble LED blinking kit
+    * The diagram and items weren't exactly identical to what I got. So, I took some pictures of mine.
+    * If it is the same tutorial file, then the file name should be Arduino Stater Kit Tutorals 100-104 and diagram can be found on page 11. And here is the screen shot of it. (arduino-morse-code-002.jpg)
+6. Open morsecode.ino from one of these three folders (basic, enhanced, and advanced)
+    * it should be looking like this (arduino-morse-code-003.jpg)
+7. Verify to make sure code compiles without any errors.
+8. Upload
+9. Enjoy!
