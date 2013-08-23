@@ -55,7 +55,7 @@ Code is simple too.  I will have few different styles.
 7. Verify to make sure code compiles without any errors.
 8. Upload
 9. Enjoy!
-    * <img src="/pictures/arduino-morse-code-009.MOV" alt="009" style="width: 50px;"/>
+    * [movie file playing "enjoy"](https://github.com/richardjoo/arduino-morse-code/blob/master/pictures/arduino-morse-code-009.jpg)
 
 
 [1]: https://github.com/richardjoo/arduino-morse-code/blob/master/pictures/arduino-morse-code-001.jpg
@@ -69,4 +69,5 @@ Code is simple too.  I will have few different styles.
 [9]: http://www.sainsmart.com/starter-kit/uno-r3-starter-kit/sainsmart-uno-r3-starter-kit-with-16-basic-arduino-projects.html
 [10]: http://arduino.cc/en/main/software
 [11]: http://www.sainsmart.com/zen/documents/20-013-100-104/SainSmart_Stater_Kit_Tutorals_100-104.rar
+[12]: https://github.com/richardjoo/arduino-morse-code/blob/master/pictures/arduino-morse-code-009.MOV
 
