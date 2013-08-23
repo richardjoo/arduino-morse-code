@@ -39,8 +39,8 @@ Code is simple too.  I will have few different styles.
         * [pic 1][4]
         * [pic 2][5]
         * [pic 3][6]
-        * [pic 3][7]
-        * [pic 3][8]
+        * [pic 4][7]
+        * [pic 5][8]
     * If it is the same tutorial file, then the file name should be Arduino Stater Kit Tutorals 100-104 and diagram can be found on page 11. And here is the screen shot of it. [arduino-morse-code-002.jpg][2]
 6. Open morsecode.ino from one of these three folders (basic, enhanced, and advanced)
     * it should be looking like this [arduino-morse-code-003.jpg][3]
