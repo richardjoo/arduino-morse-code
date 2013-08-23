@@ -50,6 +50,7 @@ Code is simple too.  I will have few different styles.
     * If it is the same tutorial file, then the file name should be Arduino Stater Kit Tutorals 100-104 and diagram can be found on page 11. And here is the screen shot of it. [arduino-morse-code-002.jpg][2]
         * <img src="/pictures/arduino-morse-code-002.jpg" alt="002" style="width: 50px;"/>
 6. Open morsecode.ino from one of these three folders (basic, enhanced, and advanced)
+    * clone this repository or download the file or you can browse to the code and copy and paste to your arduino ide
     * it should be looking like this [arduino-morse-code-003.jpg][3]
         * <img src="/pictures/arduino-morse-code-003.jpg" alt="003" style="width: 50px;"/>
 7. Verify to make sure code compiles without any errors.
