@@ -39,6 +39,8 @@ Code is simple too.  I will have few different styles.
         * [pic 1][4]
         * [pic 2][5]
         * [pic 3][6]
+        * [pic 3][7]
+        * [pic 3][8]
     * If it is the same tutorial file, then the file name should be Arduino Stater Kit Tutorals 100-104 and diagram can be found on page 11. And here is the screen shot of it. [arduino-morse-code-002.jpg][2]
 6. Open morsecode.ino from one of these three folders (basic, enhanced, and advanced)
     * it should be looking like this [arduino-morse-code-003.jpg][3]
@@ -50,3 +52,8 @@ Code is simple too.  I will have few different styles.
 [1]: https://github.com/richardjoo/arduino-morse-code/blob/master/pictures/arduino-morse-code-001.jpg
 [2]: https://github.com/richardjoo/arduino-morse-code/blob/master/pictures/arduino-morse-code-002.jpg
 [3]: https://github.com/richardjoo/arduino-morse-code/blob/master/pictures/arduino-morse-code-003.jpg
+[4]: https://github.com/richardjoo/arduino-morse-code/blob/master/pictures/arduino-morse-code-004.jpg
+[5]: https://github.com/richardjoo/arduino-morse-code/blob/master/pictures/arduino-morse-code-005.jpg
+[6]: https://github.com/richardjoo/arduino-morse-code/blob/master/pictures/arduino-morse-code-006.jpg
+[7]: https://github.com/richardjoo/arduino-morse-code/blob/master/pictures/arduino-morse-code-007.jpg
+[8]: https://github.com/richardjoo/arduino-morse-code/blob/master/pictures/arduino-morse-code-008.jpg
