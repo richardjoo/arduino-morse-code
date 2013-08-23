@@ -37,15 +37,15 @@ Code is simple too.  I will have few different styles.
 5. Assemble LED blinking kit
     * The diagram and items weren't exactly identical to what I got. So, I took some pictures of mine.
         * [pic 1][4]
-            * <img src="/pictures/arduino-morse-code-004.jpg" alt="pic 1" style="width: 150px;"/>
+            * <img src="/pictures/arduino-morse-code-004.jpg" alt="pic 1" style="width: 100px;"/>
         * [pic 2][5]
-            * <img src="/pictures/arduino-morse-code-005.jpg" alt="pic 2" style="width: 150px;"/>
+            * <img src="/pictures/arduino-morse-code-005.jpg" alt="pic 2" style="width: 100px;"/>
         * [pic 3][6]
-            * <img src="/pictures/arduino-morse-code-006.jpg" alt="pic 3" style="width: 150px;"/>
+            * <img src="/pictures/arduino-morse-code-006.jpg" alt="pic 3" style="width: 100px;"/>
         * [pic 4][7]
-            * <img src="/pictures/arduino-morse-code-007.jpg" alt="pic 4" style="width: 150px;"/>
+            * <img src="/pictures/arduino-morse-code-007.jpg" alt="pic 4" style="width: 100px;"/>
         * [pic 5][8]
-            * <img src="/pictures/arduino-morse-code-008.jpg" alt="pic 5" style="width: 150px;"/>
+            * <img src="/pictures/arduino-morse-code-008.jpg" alt="pic 5" style="width: 100px;"/>
     * If it is the same tutorial file, then the file name should be Arduino Stater Kit Tutorals 100-104 and diagram can be found on page 11. And here is the screen shot of it. [arduino-morse-code-002.jpg][2]
 6. Open morsecode.ino from one of these three folders (basic, enhanced, and advanced)
     * it should be looking like this [arduino-morse-code-003.jpg][3]
