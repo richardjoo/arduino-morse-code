@@ -55,7 +55,7 @@ Code is simple too.  I will have few different styles.
 7. Verify to make sure code compiles without any errors.
 8. Upload
 9. Enjoy!
-    * [movie file playing "enjoy"](https://github.com/richardjoo/arduino-morse-code/blob/master/pictures/arduino-morse-code-009.jpg)
+    * [movie file playing "enjoy"](https://github.com/richardjoo/arduino-morse-code/blob/master/pictures/arduino-morse-code-009.MOV)
 
 
 [1]: https://github.com/richardjoo/arduino-morse-code/blob/master/pictures/arduino-morse-code-001.jpg
